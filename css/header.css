@@ -1,0 +1,33 @@
+header {
+    background-color: #fff;
+    background: url("../img/header.png") no-repeat center center;
+   
+    background-size: cover;
+    padding: 0;
+    margin-top: 85px;
+}
+.header-inner{
+    height: 100vh;
+    max-width: 100%;
+}
+.header-wrap {
+    margin: auto;
+    padding-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 437px;
+    max-width: 900px;
+    text-align: center;
+}
+
+.head-title {
+    color: #fd512d;
+    font-size: 70px;
+    margin: 0;
+}
+
+.head-subtitle {
+    color: #000;
+    font-size: 40px;
+}

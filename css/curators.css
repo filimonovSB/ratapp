@@ -1,0 +1,12 @@
+.curators-wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.curators-wrap img {
+    max-width: 100%;
+}
+
+.curators-wrap-mobile {
+    display: none;
+}

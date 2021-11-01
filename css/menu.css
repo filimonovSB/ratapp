@@ -1,0 +1,31 @@
+nav a {
+    font-size: 24px;
+    padding: 10px 15px;
+    color: white;
+}
+
+nav {
+    padding: 25px;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #47578a;
+    border-bottom: #303a5e 1px solid;
+    border-radius: 5px;
+}
+
+.menu-mobile {
+    display: none;
+}
+
+.menu-wrap {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+    flex-wrap: wrap;
+}
